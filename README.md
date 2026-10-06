@@ -20,7 +20,7 @@ P: Pedestrian is crossing
 T: Timer condition allows for a green light
 
 The goal is to implement the well-formed formula: (C ∨ T) ∧ P' for decision making in the code.
-The light MUST ONLY turn GREEN when: there is a car detected OR pedestrian is crossing AND when there are NO pedestrians are crossing.
+The light MUST ONLY turn GREEN when: there is a car detected OR pedestrian is crossing AND when NO pedestrians are crossing.
 Otherwise, the result would be catastrophic in a real-life sense if the condition was made incorrectly. We wouldn't want the traffic light to turn green when a pedestrian is crossing.
 
 ｡ﾟ•┈୨♡୧┈• ｡ﾟ
