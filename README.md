@@ -14,6 +14,7 @@ The objective of the Traffic Light Simulation is to use propositional logic to e
 
 # Propositional Variables in depth
 This program uses 3 propositional variables which represent different meanings.
+
 C: Car is detected
 P: Pedestrian is crossing
 T: Timer condition allows for a green light
